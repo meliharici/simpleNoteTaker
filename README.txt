@@ -1,4 +1,5 @@
-# simpleNoteTaker
+SIMPLE NOTE TAKER 2.0.0
+
 Java Console Based Note Taking Application
 
 NoteCat 2.0.0 - simple console notetaking program 
